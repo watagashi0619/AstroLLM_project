@@ -1,0 +1,126 @@
+{
+    "question": "\nIn the field of magnetar research, the relationship between magnetar and fast radio bursts, and how much magnetar is contained in fast radio bursts, are now the focus of much attention. What kind of observation proposals would be effective for observational research using satellites such as JWST (optical), NuSTAR (hard X-ray), and NICER (soft X-ray)?\n",
+    "answer": "I propose a multi-wavelength observational campaign leveraging the capabilities of JWST, NuSTAR, and NICER to study magnetars that are potential sources of fast radio bursts (FRBs). \n\n1. Using JWST's infrared capabilities, we can investigate the surrounding dust and gas environment of these magnetars. This will provide insights into their formation and potential interactions with the interstellar medium, which might influence FRB production (Ferrario et al. 2015).\n\n2. NuSTAR's hard X-ray observations can be used to study the high-energy processes occurring in magnetars. Specifically, we can probe the magnetic field strength and structure of these objects, two properties that are believed to play a crucial role in the generation of FRBs (Kaspi & Beloborodov 2017).\n\n3. NICER's soft X-ray timing capabilities can be employed to study the timing properties of magnetar pulses. This can provide crucial insights into the internal structure of these objects and their rotational dynamics, which are essential for understanding the mechanism of FRB production (Archibald et al. 2017).\n\nAll these data, when combined, can provide a comprehensive view of the environment, magnetic field, and internal structure of magnetars. This multi-faceted approach will allow us to better understand the potential role of magnetars in FRB production. These observations are feasible with current technology and can provide a wealth of data for further theoretical modeling and interpretation.",
+    "source_documents": [
+        {
+            "metadata": {
+                "source": "./arxiv_papers/2102.02615v1.Distances_to_Galactic_X_ray_Binaries_with_Gaia_DR2.pdf"
+            },
+            "page_content": "A small number of XRBs have had their distances determined via radio parallax or the proper motion of a launched jet (Hjellming & Johnston 1981; Bradshaw et al. 1999; Miller-Jones et al. 2009). This form of measurement provides relatively tight con- straints on distance, but is possible only for objects that are su\ufb03ciently radio-bright and moderately nearby.\n\nAn X-ray speci\ufb01c method of measuring distances is to use the observed \ufb02ux from Type I X-ray bursts. These bursts occur when a su\ufb03cient amount of accreted material, mostly hydrogen, accumulates on the surface of a neutron star to trigger a thermonuclear runaway that produces a characteristic burst (Lewin et al. 1993). The burst is speci\ufb01cally the result of nuclear burning on the neutron star. A subset of these bursts have steady hydrogen burning followed by ig- nition of a helium layer beneath the hydrogen layer on the surface"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers/2102.02615v1.Distances_to_Galactic_X_ray_Binaries_with_Gaia_DR2.pdf"
+            },
+            "page_content": "This suggests that assumptions about X-ray bursts, namely that bursting neutron stars consistently reach the Eddington luminosity,\n\nMNRAS 000, 1\u201316 (2021)\n\nGaia distances to Galactic X-ray binaries\n\n13\n\nmay need to be modi\ufb01ed to use X-ray bursts as a distance estimator. This e\ufb00ect is prior-dependent, as choosing a di\ufb00erent prior, such as the one in Atri et al. (2019), can cause burst distances to be system- atically lower than those from Gaia DR2.\n\nWe have compared the positions of XRBs to the locations of the midpoints of spiral arms in the Milky Way. Galactic HMXBs in our sample show only a modest preference for being spatially co-located with spiral arms versus interarm regions, and show only a modest preference for being on the leading edge of spiral arms"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers/1209.6354v1.Chandra_HETGS_Observations_of_the_Brightest_Flare_Seen_from_Sgr_A_.pdf"
+            },
+            "page_content": "2004; Ghez et al. 2004; Hornstein et al. 2007; Dodds-Eden et al. 2009, 2011;\n\n2\n\nNowak et al.\n\nTrap et al. 2011). The relationship of X-ray and NIR \ufb02aring to that in the sub-millimeter (submm) bands is still under de- bate, although broad peaks delayed from the NIR have been noted (Marrone et al. 2008; Yusef-Zadeh et al. 2006, 2008).\n\nMany important questions persist about the nature of the accretion \ufb02ow in Sgr A\u2217, and particularly about the \ufb02ares, which seem to provide a missing link with activity seen in other weakly accreting black holes. Speci\ufb01cally, in the last decade the Fundamental Plane (FP) of black hole accretion (Merloni et al. 2003; Falcke et al. 2004; K\u00f6rding et al. 2006) has emerged as an important concept that links black hole mass and radiative output in the radio and X-ray bands for weakly accreting systems, with Sgr A\u2217 being an extreme low- luminosity example of such systems"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers/2102.02615v1.Distances_to_Galactic_X_ray_Binaries_with_Gaia_DR2.pdf"
+            },
+            "page_content": "2003; Muno et al. 2005; Verbunt & Lewin 2006; Degenaar et al. 2012). By contrast, the high-mass companions of HMXBs are short-lived, so they are useful for tracing recent star formation in a long-term galactic evolution context. Observations of nearby galaxies have suggested that the star formation rate (SFR) of a galaxy scales with both the number of HMXBs and their col- lective X-ray luminosity, albeit with a moderate dispersion (Grimm et al. 2003; Mineo et al. 2012). Finally, XRBs are one of the few ways to observe the high mass end of the initial mass function in an evolved population, since isolated neutron stars and black holes are challenging to observe and study (Verbunt & Hut 1987; Verbunt 2003; Dabringhausen et al. 2012).\n\n\u2605 E-mail:rarnaso@uwo.ca\n\n\u00a9 2021 The Authors\n\n2\n\nR. M"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers/2212.03981v1.The_wide_field__multiplexed__spectroscopic_facility_WEAVE__Survey_design__overview__and_simulated_implementation.pdf"
+            },
+            "page_content": "(2018). As shown in Figure 10, the discovery potential is very large. In the Anticentre \ufb01elds, the emphasis shifts to observations of late-B and A stars, where the science aims concern both the stars themselves and describing Galactic disc kinematics as imprinted on this young, dynamically cold population. Measuring constraints on binarity via repeat exposures is an important aspect in both HR programme com- ponents. Most stars in the Universe form in binaries or higher-order MNRAS 000, 1\u201341 (2022)\n\nThe normal SCIP survey planning for MOS observations assumes an upper limit to the seeing of 1.2 arcsec, appropriate for point sources observed using \ufb01bres of diameter 1.3 arcsec. This constraint is unnecessary for extended sources, such as Galactic planetary nebulae (PNe), where abundance patterns as a function of position are an important goal (Garc\u00eda-Rojas et al. 2022)"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers/1310.7238v1.Discovery_of_a_new_kind_of_explosive_X_ray_transient_near_M86.pdf"
+            },
+            "page_content": "Additional, new, optical (e.g. Hubble Space Telescope) observations could test this scenario by checking whether the faint g(cid:48)-band source indeed has a proper motion of 0.16 arc- seconds per year.\n\nIn an alternative version of this scenario, where we do not ascribe the g(cid:48)-band detection to the isolated neutron star, and thus we have no constraint on the proper mo- tion or distance of the neutron star, we can place it at a larger distance. This would increase the total energy lib- erated in the transient event and thus the amount of ac- creted mass but it alleviates the constraint on the quies- cent X-ray luminosity of the isolated neutron star. How- ever, in both these isolated neutron star scenarios the precursor events and their 4,000 s time scale are di\ufb03cult to understand. Furthermore, the accretion of asteroid- sized bodies onto a neutron star are thought to produce signi\ufb01cant amounts of \u03b3-ray emission (Campana et al"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers/2102.02615v1.Distances_to_Galactic_X_ray_Binaries_with_Gaia_DR2.pdf"
+            },
+            "page_content": "Many XRBs with a neutron star have had their distance measured using Type I X-ray bursts. Aside from these cat- egories, there are also a handful of objects with Hipparcos or radio parallaxes, and a variety of other methods for individual objects"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers/2102.02615v1.Distances_to_Galactic_X_ray_Binaries_with_Gaia_DR2.pdf"
+            },
+            "page_content": "According to this table, distances measured using Type I X-ray bursts are the only method which show a systematic di\ufb00erence with new measured distances in this work.\n\nThese results would seem to suggest that Type I X-ray bursts are\n\nintrinsically less luminous than predicted by modelling. This agrees with previous results on systematic biases in distance determination via Type I X-ray bursts. Galloway et al. (2008b) demonstrated that the choice to assume that the touchdown \ufb02ux (the \ufb02ux measured when the expanded photosphere of the neutron star touches down back onto its surface) is either at the Eddington luminosity or sub- Eddington may introduce large systematic uncertainties to distance measurements of X-ray bursting XRBs. Studies of bursting sources using the Rossi X-ray Timing Explorer have indicated that a number of these sources are signi\ufb01cantly sub-Eddington in their peak \ufb02uxes (e.g., Galloway et al"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers/1310.7238v1.Discovery_of_a_new_kind_of_explosive_X_ray_transient_near_M86.pdf"
+            },
+            "page_content": "In the X-ray band the observed variability on time scales of hours to days has been at- tributed to exploding massive stars (M\u00b4esz\u00b4aros 2006), or the accretion of material onto neutron stars, stellar-mass (Fender & Belloni 2012) or super-massive black holes such as in active galactic nuclei (AGN; Fabian 2012). The disruption of a star by a super-massive black hole has also been observed (Komossa et al. 2004).\n\n1.\n\n16M(cid:12) (for example in M33 X-7; Orosz et al. 2007) and supermassive black holes in AGN with masses of > 105M(cid:12) (Greene & Ho 2007) have been identi\ufb01ed, black holes with masses of several hundred to a few thousand solar masses remain elusive. Ultra-luminous X-ray sources (ULXs) could har- bor such black holes with masses in\u2013between the stellar\u2013 mass black holes found in X\u2013ray binaries and the super\u2013 105 M(cid:12)) found in massive black holes (SMBHs; > \u223c the centers of galaxies"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers/2102.02615v1.Distances_to_Galactic_X_ray_Binaries_with_Gaia_DR2.pdf"
+            },
+            "page_content": "In addition, a number of interesting astrophysical phenom-\n\nena can be studied through XRBs, such as wind physics, neutron star equation of state, and high-energy radiative processes. Aside from their value to these astrophysical questions, XRBs can also provide independent constraints on their formation environment on larger scales (Lehmer et al. 2010; Boroson et al. 2011; Zhang et al. 2012; Tremmel et al. 2013). LMXBs can act as independent trac- ers of stellar mass, since low-mass stars comprise the bulk of the stellar mass in a population (Gilfanov 2004). Additionally, LMXBs are preferentially found in areas of high stellar density, such as the globular clusters of the Galaxy and in the direction of the Galac- tic centre, likely due to their formation by dynamical mechanisms (Clark 1975; Pooley et al. 2003; Muno et al. 2005; Verbunt & Lewin 2006; Degenaar et al. 2012)"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers/2102.02615v1.Distances_to_Galactic_X_ray_Binaries_with_Gaia_DR2.pdf"
+            },
+            "page_content": "With the exception of XRBs located in the direction of the Galactic centre, in the Milky Way the population of XRBs can be studied to fainter X-ray luminosities, and identi\ufb01cations of a unique optical counter- part are more straightforward. Since individual XRBs are most easily studied in the Milky Way, our understanding of individual XRBs in other galaxies and their parameters as an ensemble population are a\ufb00ected by studies of nearby XRBs. Measuring the distance to in- dividual XRBs accurately is important because the uncertainty on a\n\nnumber of desired properties in an XRB system can be limited by the uncertainty on distance. For example, measurements of distance can a\ufb00ect the inferred size of the accretor (i.e., neutron star radius), in- ferred mass of either component of the system (either the companion mass or the mass of the accreting neutron star/black hole), inferred mass transfer rate, and other relevant accretion physics due to the inferred luminosity (Galloway et al"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers/1310.6209v1.Toward_a_hybrid_dynamo_model_for_the_Milky_Way.pdf"
+            },
+            "page_content": "One way to ex- plore this in more detail will be global MHD simulations that incorporate both mean-\ufb01eld e\ufb00ects from small scale turbulence and the e\ufb00ect of CRs and SNe in form of a nuclear star-burst (Melioli et al., 2013) and super-bubbles. Such simulations how- ever must account for the multi-phase nature of the ISM (via an appropriate cooling function), and are highly demanding in terms of CPU resources.\n\nFoglizzo, T. & Tagger, M. 1995, A&A, 301, 293 Fromang, S. & Stone, J. M. 2009, A&A, 507, 19 Fukui, Y., Yamamoto, H., Fujishita, M., et al. 2006, Science, 314, 106 Gressel, O. 2009, PhD thesis, University of Potsdam, (2009) Gressel, O., Bendre, A., & Elstner, D. 2013, MNRAS, 429, 967 Gressel, O., Elstner, D., & R\u00a8udiger, G. 2011,\n\nin IAU Symposium, ed. A. Bonanno, E. de Gouveia Dal Pino, & A. G. Kosovichev, Vol. 274, 348\u2013354\n\nGressel, O., Elstner, D., Ziegler, U., & R\u00a8udiger, G. 2008a, A&A, 486, L35 Gressel, O., Ziegler, U., Elstner, D., & R\u00a8udiger, G"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers/1601.00649v1.Inferring_the_Galactic_potential_with_Gaia_and_friends__synergies_with_other_surveys.pdf"
+            },
+            "page_content": "2013a). Under the current plan, WFIRST would revisit the high-latitude \ufb01elds (located in the southern hemisphere to intersect LSST) at least 5 times over the course of the survey with a cadence that would allow measurement of proper mo- tions to \u223c 100\u00b5as precision for stars as faint as 27th mag- nitude in the J band. If current e\ufb00orts to better connect pulsation models to optical and near IR lightcurves (for example Marconi et al. 2015) lead LSST to deliver 2%\n\nRRLe distances from multiband photometry, we would then someday be able to push our knowledge of the six- dimensional phase space distribution of the Milky Way\u2019s halo beyond the faint limit of Gaia, out to its very edge. These results also suggest that prospects for using RRLe to determine the halo\u2019s mass pro\ufb01le out to large distances will be signi\ufb01cantly a\ufb00ected by the number and metallicity of the progenitors of distant tidal streams in the Galaxy"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers/2102.02615v1.Distances_to_Galactic_X_ray_Binaries_with_Gaia_DR2.pdf"
+            },
+            "page_content": "1999). Coleiro & Chaty (2013) investigated the spatial relation between HMXBs and star forming complexes (SFCs) \ufb01nding that they are correlated on two characteristic scales: 0.3 \u00b1 0.05 kpc and 1.7 \u00b1 0.3 kpc, which they interpret as the cluster size and cluster separation, respectively. They also derive a mean migration distance for HMXBs of roughly 0.1 pc and mean migration ages of around 50 Myr (depending on HMXB type) though they note that sample sizes are small and uncertainties are large. A large source of that uncertainty lies in the di\ufb03culty in determining distances to XRBs within the Milky Way.\n\n1.3 X-ray Binary Distances\n\nA principal reason for desiring accurate distances to XRBs in the Milky Way is that many of these XRBs can be studied in detail"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers/1903.11036v1.Resolving_the_distance_controversy_for_Sharpless_269__A_possible_kink_in_the_outer_arm.pdf"
+            },
+            "page_content": "2011; Reid et al. 2014; Honma et al. 2015; Sakai et al. 2015; Xu et al. 2016). The BeSSeL survey contin- ues with additional VLBI observations of masers associated with High Mass Star-Forming Regions (HMSFRs) to better constrain the size and morphology of the Milky Way (see, e.g., Quiroga- Nu\u02dcnez et al. 2017; Sanna et al. 2017). This is relevant at large Galactocentric radii (> 12 kpc), where only a few HMSFRs have been observed and their astrometric parameters are harder to measure (Hachisuka et al. 2015, and references within). Also, the outer Galactic region is particularly interesting as it gauges the Galactic rotation curve, which is a crucial key to understand the role of dark matter in Galactic dynamics (see, e.g., Kent 1986; Sofue 2017).\n\nIn 2004, the VERA project started to monitor several maser bearing stars and star-forming regions to accurately determine their astrometric parameters (Honma 2013)"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers/2102.02615v1.Distances_to_Galactic_X_ray_Binaries_with_Gaia_DR2.pdf"
+            },
+            "page_content": "The ignition of this helium layer produces a burst that is su\ufb03cient to lift the photosphere o\ufb00 the surface of the neutron star. These bursts are known as photospheric radius expansion (PRE) bursts, and the luminosity of the X-ray burst is expected to be at the Eddington lu- minosity during the expansion and contraction of the photosphere (Kuulkers et al. 2003). Since the Eddington limit is \ufb01xed for a par- ticular accretor mass (and gas composition/opacity), this means that the mass, radius, and distance of a neutron star can be constrained by comparing the observed \ufb02ux to the modelled Eddington luminosity for that object. (Strohmayer & Bildsten 2006; Bhattacharyya 2010). The use of X-ray bursts to infer distance was suggested not long after the detection of such bursts by early X-ray satellites. This relation has been calibrated using X-ray bursts observed in Galactic globular clusters (van Parad\u0133s 1978, 1981; Verbunt et al"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers/2102.02615v1.Distances_to_Galactic_X_ray_Binaries_with_Gaia_DR2.pdf"
+            },
+            "page_content": "1999; Mu\u00f1oz-Darias et al. 2005; Linares et al. 2018; Bozzo et al. 2018). Failing to account for these e\ufb00ects on the expected optical emission of an XRB may lead to incorrect estimates of distance from photometric methods. These e\ufb00ects are themselves modi\ufb01ed by the mass transfer rate, accretion geometry, orbital phase, and accretion state of the system, meaning that they can change with time and may require simultaneous multi- wavelength observations for distances to be usefully constrained.\n\nA number of techniques have been used to constrain distance mea- surements of Milky Way XRBs. The most common of these is to measure a photometric distance by assuming that the emission is dominated by the companion at longer wavelengths. In general, this method is subject to substantial uncertainties, not only due to the contribution of the accretor, but also due to uncertainties in spec- tral classi\ufb01cation and calibrating the absolute magnitude (Reig & Fabregat 2015)"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers/2010.06603v2.The_RR_Lyrae_projected_density_distribution_from_the_Galactic_centre_to_the_halo.pdf"
+            },
+            "page_content": "For example, Sanderson et al. (2019) estimate WFI relative astrometry precise to 0.01 mas at HAB = 21.6 mag in typical \ufb01elds for the whole sur- vey microlensing campaign (Spergel et al. 2015, Bennett et al. 2018, and Penny et al. 2019). Since the bulge RRL stars are much brighter and would have multiple epochs of observations, the WFI astrometry would easily allow us to discriminate dis- tinct ancient subpopulations. Part of the desired dataset could be achieved as a byproduct of the proposed microlensing survey at the Nancy Roman Space Telescope suggested by Akeson et al. (2019).\n\nTherefore, with the new telescopes it would be possible to solve the puzzle of the formation of the bulge, and even the NSC of our Galaxy and of other galaxies.\n\n8. Conclusions\n\nFig. 9"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers/1209.6354v1.Chandra_HETGS_Observations_of_the_Brightest_Flare_Seen_from_Sgr_A_.pdf"
+            },
+            "page_content": "2012 for an alternative). The X-ray \u201cquiescent state\u201d is punctuated roughly daily by \ufb02ares with <\u223c hour time scales that point to a source within \u223c 10\u2019s of rg \u2261 GM/c2 (the gravitational radius) from the black hole (Baganoff et al. 2001; Goldwurm et al. 2003; B\u00e9langer et al. 2005; Porquet et al. 2003, 2008). The \ufb02ares, whose emission has been modeled with synchrotron or alternatively inverse Compton, are most likely caused by nonthermal processes (e.g., shock or magnetic reconnection acceleration of electrons within a jet; Markoff et al. 2001; Yuan et al. 2004; Yusef-Zadeh et al. 2006; Dodds-Eden et al. 2009), though other mechanisms have also been suggested (e.g., Liu & Melia 2002; Zubovas et al. 2012).\n\nSimultaneous monitoring campaigns with the NIR have established that all the X-ray \ufb02ares have NIR counterparts, while only the brighter NIR \ufb02ares (\u2265 10 mJy) have cor- responding X-ray activity (Eckart et al. 2004; Ghez et al. 2004; Hornstein et al. 2007; Dodds-Eden et al"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers/2102.02615v1.Distances_to_Galactic_X_ray_Binaries_with_Gaia_DR2.pdf"
+            },
+            "page_content": "2012).\n\n\u2605 E-mail:rarnaso@uwo.ca\n\n\u00a9 2021 The Authors\n\n2\n\nR. M. Arnason et al.\n\n1.2 X-ray Binaries and Galactic Structure\n\nAlthough \ufb01eld Milky Way XRBs can often be easier to study because of their close proximity (compared to XRBs in globular clusters or other galaxies), investigating the relationship between XRBs and galaxy parameters for the Milky Way is complicated. Our location within the disc of the Milky Way means that lines of sight where XRBs are expected to be more abundant tend to be heavily extincted. XRBs tend to have a spatial distribution that is distinct from or- dinary stars belonging to the same parent stellar population because the supernova that forms the compact object in an XRB system can impart a velocity kick to the system, often known as a \u201cnatal\u201d kick"
+        }
+    ]
+}

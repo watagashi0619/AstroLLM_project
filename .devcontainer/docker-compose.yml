@@ -1,0 +1,13 @@
+version: "3.9"
+services:
+  app:
+    container_name: app-dev
+    build:
+      args:
+        - PYTHON_BASE_IMAGE=mcr.microsoft.com/vscode/devcontainers/python
+      target: ${TARGET_STAGE:-dev}
+    command: sleep infinity
+    volumes:
+      - .:/workspace:cached
+    env_file:
+      - ./app/.env

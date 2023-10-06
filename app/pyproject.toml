@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "langchain-docker"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+langchain = "^0.0.284"
+openai = "^0.28.0"
+notebook = "^7.0.3"
+ipywidgets = "7.7.2"
+pandas = "^2.1.0"
+matplotlib = "^3.7.2"
+numpy = "^1.25.2"
+faiss-cpu = "^1.7.4"
+tqdm = "^4.66.1"
+unstructured = "^0.10.16"
+pdf2image = "^1.16.3"
+pdfminer-six = "^20221105"
+arxiv = "^1.4.8"
+tiktoken = "^0.5.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,126 @@
+{
+    "question": "\nIn the field of magnetar research, the relationship between magnetar and fast radio bursts, and how much magnetar is contained in fast radio bursts, are now the focus of much attention. What kind of observation proposals would be effective for observational research using satellites such as JWST (optical), NuSTAR (hard X-ray), and NICER (soft X-ray)?\n",
+    "answer": "I propose a multi-wavelength observation campaign to study magnetars and their associated fast radio bursts (FRBs). Based on the mentioned studies, FRBs have been linked to magnetars, but the exact mechanism of their emission is still unclear. \n\n1. We could use the NuSTAR satellite to observe high-energy X-ray emissions from active magnetars, such as SGR J1935+2154, as it has been suggested that these bursts are linked to FRBs (Ridnaia et al. 2020; Tavani et al. 2020). Observing these bursts could help us understand the energy mechanisms behind FRBs.\n\n2. Simultaneously, we could use the NICER satellite to observe the softer X-ray emissions from these magnetars. The correlation between soft X-ray and hard X-ray emissions could provide insight into the magnetar's internal structure and energy distribution.\n\n3. In conjunction with these X-ray observations, we could use the JWST to observe the optical emissions from these magnetars, especially during active periods. This could provide additional data on the energy spectrum of these objects and help confirm or disprove theories about the emission mechanisms of FRBs.\n\n4. Lastly, to link these observations directly to FRBs, we should coordinate these observations with radio observatories that can detect FRBs. This could allow us to directly correlate observed X-ray and optical emissions with the occurrence of FRBs.\n\nThis multi-wavelength approach would allow us to observe a broad range of emissions from these magnetars and could potentially provide valuable insights into the mechanisms behind FRBs.",
+    "source_documents": [
+        {
+            "metadata": {
+                "source": "./arxiv_papers_magnetar_OR_fast_radio_burst/2201.12310v1.INTEGRAL_contributions_to_magnetars_and_multimessenger_astrophysics.pdf"
+            },
+            "page_content": "The most recent results include the discovery of a peculiar burst from SGR J1935+2154, which gave the \ufb01rst observational evidence for the connection between magnetars and fast radio bursts, and extensive searches for bursting activity in peculiar sources, such as the repeating FRB 20200120E in M81 and the ultra-long period magnetar candidate GLEAMX J162759.5\u2013523504.3.\n\nKeywords. Magnetars, Fast Radio Bursts\n\n8 2\n\n] E H . h p - o r t s a [\n\n1 v 0 1 3 2 1 . 1 0 2 2 : v i X r a\n\n1. Introduction\n\nThe European Space Agency INTEGRAL satellite, launched in October 2002 and still operational (Kuulkers et al. 2021), is devoted to observations in the hard X-ray / soft \u03b3- ray range with high spectral and angular resolution"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers_magnetar_OR_fast_radio_burst/2110.05880v1.INTEGRAL_limits_on_past_high_energy_activity_from_FRB_20200120E_in_M81.pdf"
+            },
+            "page_content": "2020; Boch- enek et al. 2020), provided strong observational support to the connection between fast radio bursts (FRBs) and magnetars. FRBs are short (\u223cms) and bright pulses of coherent radio emis- implying sion with high dispersion measure, an extragalactic origin (see Petro\ufb00 et al. 2019; Cordes & Chatterjee 2019 for reviews), while magnetars are isolated neutron stars powered by magnetic energy (see Mereghetti et al. 2015; Turolla et al. 2015; Kaspi & Beloborodov 2017 for reviews)"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers_magnetar_OR_fast_radio_burst/2107.10113v2.Fast_radio_bursts_at_the_dawn_of_the_2020s.pdf"
+            },
+            "page_content": "Searches for similar X-ray emission following radio bursts might also provide insight into any relationship between FRBs and magnetars.\n\nPrecise localisation of a larger number of FRBs will also help in this area, as milliarcsecond precision can help identify not only the source location in the host galaxy but also potentially associate it with a star forming region or other interesting area such as a globular cluster or Hii region when radio interferometric localization is combined with deep optical imaging"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers_magnetar_OR_fast_radio_burst/2103.06052v1.Multi_frequency_observations_of_SGR_J1935_2154.pdf"
+            },
+            "page_content": "It may also indicate that the magnetar lies somewhere between being radio-quiet and radio-loud in terms of its ability to produce radio emission e\ufb03ciently.\n\nKey words: fast radio bursts \u2013 stars:magnetars\n\n1 INTRODUCTION\n\nMagnetars are possibly the most exotic objects of all the classes of neutron stars. High magnetic \ufb01elds ((cid:38) 1014 G) and intense X- ray/soft \ud835\udefe-ray emission combined with erratic spin down behaviour makes them unique amongst the neutron star population. The Soft Gamma-ray Repeater (SGR) J1935+2154 was discovered when the Swift Burst Alert Telescope detected an X-ray burst on 2014 July 5 (Stamatikos et al. 2014; Lien et al. 2014). This initial burst was then followed by a number of other short bursts (Cummings 2014). Follow- ing this, the sky location of SGR J1935+2154 was quickly recognised to place it coincident with the supernova remnant (SNR) G57.2+0.8 strongly suggesting an association (Gaensler 2014)"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers_magnetar_OR_fast_radio_burst/2103.06052v1.Multi_frequency_observations_of_SGR_J1935_2154.pdf"
+            },
+            "page_content": "It may also be the case that the radio emission associated with the bright burst is generated by a di\ufb00erent physical mechanism or location within the magnetosphere to those seen subsequently with FAST, WSRT and CHIME. This is also consistent with the fact that the X-ray burst that was contemporaneous with the bright radio burst was unlike the typical X-ray bursts seen from the magnetar and constitutes only \u223c6% of the X-ray bursts seen from SGR J1935+2154 (Li et al. 2020a; Younes et al. 2020a; Ridnaia et al. 2020). This emphasizes the need to monitor Galactic magnetars in their active states as they might\n\nreveal a peculiar relationship between their radio and X-ray emission properties that will provide more insight into the emission process. Radio searches for single pulses and average pulse emission by folding the data based on the ephemeris derived from the X-ray obser- vations (e.g. Israel et al. 2016) were carried out using the NC, GMRT (Surnis et al"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers_magnetar_OR_fast_radio_burst/2210.06547v1.Testing_afterglow_models_of_FRB_200428_with_early_post_burst_observations_of_SGR_1935_2154.pdf"
+            },
+            "page_content": "The caveats with pursuing these kinds of simultane- ous observation are two-fold. Firstly, we know that (repeating) FRBs generally have a narrow bandwidth (e.g. The CHIME/FRB Collabo- ration et al. 2021) and therefore observing at a one frequency does not necessarily preclude the emission of a radio burst at another. Second, magnetar X-ray bursts are stochastic and di\ufb03cult to predict. Building such a sample will require either a pipeline from X-ray detections to radio observatories that enable rapid target-of-opportunity obser- vations7; or long-term observations of magnetars with underutilized\n\nradio telescopes"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers_magnetar_OR_fast_radio_burst/2103.00470v1.Emission_Mechanisms_of_Fast_Radio_Bursts.pdf"
+            },
+            "page_content": "Magnetars look to be the most promising sources of FRBs. Initially, the FRB-magnetar connection was proposed on statistical ground [50] because the rate of magnetar \ufb02ares is comfortably above the FRB rate, as distinct from, say, gamma-ray bursts. The recent discovery of weak FRBs from the Galactic magnetar SGR 1935+2154 [51,52] lends strong support to magnetar models. In this section, I describe how the above-outlined coherent radiation mechanisms could work in magnetars.\n\n3.1. Magnetar Magnetosphere and Wind\n\nMagnetars are neutron stars with surface magnetic \ufb01eld \u223c 1015 G. Even a larger \ufb01eld, \u223c 1016 G, could be buried under the surface of the star. The notion of magnetars was introduced to astrophysics by Duncan and Thompson [53,54], who predicted that ultrastrong magnetic \ufb01elds could be generated in proto-neutron stars, and demonstrated that the decay of this \ufb01eld could feed soft gamma repeaters (for a recent review of magnetars, see [55])"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers_magnetar_OR_fast_radio_burst/2008.12318v2.Neutrino_Counterparts_of_Fast_Radio_Bursts.pdf"
+            },
+            "page_content": "Chief among these is how to distinguish between several proposed variations of the magnetar model, which make qualitatively di\ufb00erent predictions for the mechanism and location of the radio emission and the expectation (if any) of each for an accompanying higher-frequency afterglow. Unlike cosmological FRBs, for which no unambiguous multi-wavelength counterpart has yet been detected, the joint detection of X-ray and radio emission from FRB 200428 \ufb01nd a natural expla- nation in some magnetar models, while placing others in tension (Margalit et al. 2020a; Lu et al. 2020a).\n\nArguably the most well-developed of these models, in terms of making quantitative predictions for the burst properties motivated by \ufb01rst-principles kinetic plasma simulations, postulate that FRBs are the electromag- netic wave precursors of transient magnetized shocks generated by \ufb02are ejecta (e.g. an ultra-relativistically expanding plasmoid) released from the magnetosphere (Lyubarsky 2014; Beloborodov 2017)"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers_magnetar_OR_fast_radio_burst/2107.10113v2.Fast_radio_bursts_at_the_dawn_of_the_2020s.pdf"
+            },
+            "page_content": "We build on the introduction to FRBs in our earlier review, update our readers on recent results, and discuss interesting avenues for exploration as the \ufb01eld enters a new regime where hundreds to thousands of new FRBs will be discovered and reported each year.\n\nKeywords Fast Radio Burst \u00b7 Pulsar \u00b7 Magnetar \u00b7 Radio Astronomy \u00b7 Transient\n\nContents\n\n3 1 Introduction . 6 . 2 Recent observational breakthroughs 6 2.1 Having lots of them . 2.2 Knowing where they come from . 9 2.3 Seeing them in \ufb01ne detail \u2014 in time, frequency and polarisation . 13 2.4 Seeing them change in time . 15 2.5 Seeing them at other wavelengths . 16 3 Observational constraints on theory . 17 3.1 Constraining the radiation mechanism . 17 3.2 Constraining the progenitor . 19 3.3 Constraining the system . 20 3.4 Constraining the environment . 21 3.5 Constraining the population . 22 3.6 What can we learn from SGR 1935+2154 and other known magnetars? . 23 3.7 What questions can we answer with future observations?"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers_magnetar_OR_fast_radio_burst/2011.06607v1.X_ray_and_Radio_Bursts_from_the_Magnetar_1E1547_0_5408.pdf"
+            },
+            "page_content": "2006; Kramer et al. 2007, e.g.). To further blur the line be- tween magnetars and \u2018ordinary\u2019 pulsars, magnetar-like X-ray activity was found in objects with dipolar B \ufb01elds as low as 6 \u00d7 1012 G (Rea et al. 2010, 2013), and in pulsars with powerful rotational energy loss rate, such as the radio-quiet PSR J1846\u22120258 (Gavriil et al. 2008) and the radio-loud PSR J1119\u22126127 (Archibald et al. 2016).\n\nA renewed interest for magnetar radio emission comes from its possible connection to Fast Radio Bursts (FRBs). FRBs are bright (\u223c Jy) ms-duration tran- sients whose impulsive nature and extreme brightness temperatures imply coherent emission and connect them to compact objects. When the \ufb01rst repeating FRB was observed (Spitler et al. 2014, 2016) it became clear that at least a selection of FRBs could not be powered by a single explosive event. All these characteristics pointed to a connection with magnetar bursts, possible from very young extra-Galactic magnetars (Metzger et al"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers_magnetar_OR_fast_radio_burst/2103.07786v2.Multiwavelength_observations_of_Fast_Radio_Bursts.pdf"
+            },
+            "page_content": "We focus in particular on coordinated observational campaigns, being the most promising approach in light of the (quasi-)simultaneous MWL emission predicted by the magnetar-engine models. The most favoured emission models are also briefly discussed. FRBs \u03b3-ray energetic is compared to the radio one and to that of GRBs and galactic magnetars. In Section 5 optical and higher-energy observations of the two periodic repeaters FRB 20121102A and FRB 20180916B are extensively discussed. The recent outcome from the MWL observations performed during the April 2020 SGR J1935+2154 active phase are illustrated in Section 6. Our conclusions are summarized in Section 7.\n\n2. Magnetars\n\nSoft Gamma Repeaters (SGRs) and Anomalous X-ray Pulsars (AXPs) are thought to be magnetars, that is, young neutron stars (NSs) with extremely high magnetic \ufb01elds [51\u201353] and are among the candidates for the sources of FRBs"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers_magnetar_OR_fast_radio_burst/2201.12310v1.INTEGRAL_contributions_to_magnetars_and_multimessenger_astrophysics.pdf"
+            },
+            "page_content": "A thorough description of the performances for the search of GW counterparts and other transient events can be found in Savchenko et al. (2017). In this short contribution I concentrate on the results obtained for magnetars and fast radio bursts (FRB). See Papitto et al. (2020) and Ferrigno et al. (2021) for more extended accounts.\n\n2. Discovery of persistent hard X-ray emission from magnetars\n\nMagnetars were discovered in hard X-rays, but for many years their detection in this band was limited to the bursts from soft gamma-ray repeaters (SGR). Before the advent of INTEGRAL, their persistent emission was seen only below 10 keV, with very soft spectra suggesting undetectable \ufb02uxes at higher energies. The unanticipated discovery of persistent hard X-ray emission from several magnetars with INTEGRAL (Molkov et al. 2004; Mereghetti et al. 2005a; Kuiper et al. 2006; G\u00a8otz et al. 2006; den Hartog et al"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers_magnetar_OR_fast_radio_burst/2203.06507v1.Angular_Dependence_of_Coherent_Radio_Emission_from_Magnetars_with_Multipolar_Magnetic_Fields.pdf"
+            },
+            "page_content": "2019; Kalapotharakos et al. 2021). Recent advanced numerical simulations by Igoshev et al. (2021) also indicate to the presence of complicated magnetic \ufb01eld structure of magnetars.\n\nWith magnetic \ufb01eld strengths above Bcr, magnetars have the necessary energy budget and ambient conditions to operate the co- herent mechanisms of fast radio bursts (FRBs; Lorimer et al. 2007; Thornton et al. 2013), short-duration (typically a few milliseconds) intense (peak \ufb02ux densities up to about 100 Jy) coherent (bright- ness temperatures of about 1035 K) signals observed in radio bands (GHz), to be observed even from Gpc distances. Therefore, the currently popular models to elucidate FRBs generally invoke NSs\n\n\u00a9 0000 The Authors\n\n2\n\nYamasaki, Eks, i & G\u00a8o\u02d8g\u00a8us,\n\nwith magnetar type \ufb01eld strengths (see e.g., Beloborodov 2019). A Galactic magnetar, SGR J1935+2154 has entered into a burst active episode on 2020 April 27, emitting hundreds of energetic X- ray bursts in a day (Palmer 2020)"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers_magnetar_OR_fast_radio_burst/2006.11358v2.Broadband_X_ray_Burst_Spectroscopy_of_the_FRB_Emitting_Galactic_Magnetar.pdf"
+            },
+            "page_content": "Although the FRB was at the faint end of the luminosity range typically encountered for extragalactic radio bursts17,18, it firmly establishes the FRB-magnetar connection that has emerged as a popular paradigm19.\n\nAs inferred from all the instruments that observed the FRB-X, its spectral characteristics were unusual, showing a harder, non-thermal profile, compared to bursts from previous activations12 of SGR J1935+2154. To determine whether this was indeed spectrally distinct from the bursts observed around the time of the FRB, and to better characterize the nature of this spectral difference, we selected a subset of 24 bursts simultaneously detected with NICER and GBM,\n\n2\n\nwhich afforded a broad-band energy coverage, sampling the full curvature of their X-ray spectra. Due to the high background of GBM, these were also the brightest among the 200 detected with NICER"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers_magnetar_OR_fast_radio_burst/2308.10930v2.Multiwavelength_Constraints_on_the_Origin_of_a_Nearby_Repeating_Fast_Radio_Burst_Source_in_a_Globular_Cluster.pdf"
+            },
+            "page_content": "The strongest link between FRBs and magnetars was es- tablished when an FRB-like radio burst was detected from the Galactic magnetar SGR 1935+2154 on 2020 April 28 [11], [12]. This radio burst was much more luminous than those previously detected from other Galactic neutron stars (NSs), and it demonstrated that similar events could be detectable from ex- tragalactic distances [11], [12]. In addition, a prompt short X-ray burst was also detected near the time of an FRB-like radio burst from SGR 1935+2154 [14]\u2013[17]. The spectrum of this X-ray burst was harder than other short X-ray bursts detected from the magnetar [15], [16], but it was not unusually energetic rela- tive to other short X-ray bursts observed from Galactic magnetars. Together, these observations suggest that some fraction of the cosmological FRB population may be powered by extragalactic magnetars, which may also produce accompanying X-ray emission"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers_magnetar_OR_fast_radio_burst/2308.10930v2.Multiwavelength_Constraints_on_the_Origin_of_a_Nearby_Repeating_Fast_Radio_Burst_Source_in_a_Globular_Cluster.pdf"
+            },
+            "page_content": "More energetic X-ray bursts may be detectable from larger distances. Modest improvements in the sensitivity of currently operating high energy X-ray detectors would facilitate deeper studies of the parameter space of magnetar-like bursts produced from nearby extragalactic FRB sources (see Figure 5).\n\nFuture X-ray telescopes with much larger effective areas, such as NewAthena and Strobe-X, will be able to detect X-ray bursts with properties similar to the X-ray burst associated with FRB-like emission from SGR 1935+2154 [14] from sources located as far as \u223c5\u201310 Mpc in the soft X-ray band, if the bursts are not heavily absorbed"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers_magnetar_OR_fast_radio_burst/1903.04691v1.Radio_Time_Domain_Signatures_of_Magnetar_Birth.pdf"
+            },
+            "page_content": "New FRB associations can test predictions for the time evolution, magnetism, and high-energy emission from magnetars [61]. Sensitive, arcsecond- resolution radio interferometers are the only proven way to \ufb01nd host galaxies for FRBs [7] and require novel computing architectures to solve the search problem at scale [62, 51].\n\nSlow Radio Transients from Known SNe/GRBs: The magnetar birth scenario predicts that magnetar-powered SNe or GRBs should produce unique \u223cdecade timescale radio transient signatures that can be used to study magnetar properties [20, 63, 50]. Ded- icated follow-up has identi\ufb01ed the \ufb01rst candidate radio transient associated with a SLSN-I [27]. Arcsecond-resolution radio interferometers with high sensitivity and wide frequency coverage (1\u201320 GHz) can distinguish this signature from foregrounds and characterize them to infer magnetar properties"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers_magnetar_OR_fast_radio_burst/2110.11380v2.Chiral_anomalous_processes_in_magnetospheres_of_pulsars_and_black_holes.pdf"
+            },
+            "page_content": "Because of the large magnetic energy density in their magnetospheres, magnetars were identi- \ufb01ed as possible sources of the fast radio bursts [42,43,44, 45]. Indeed, the corresponding radio and X-ray bursts can be naturally powered by \ufb02ux-tube reconnection events in a strongly magnetized plasma of pulsars [46]. The indirect evidence is provided by the detection of the \ufb01rst radio burst in the Milky Way from magnetar SGR 1935+2154 by CHIME/FRB [47] and STARE2 [48], in temporal coin- cidence with high energy bursts observed by INTEGRAL [49], AGILE [50], Konus-Wind [51], and Insight-HXMT [52]. The plasma parameters required to produce fast radio bursts are extreme, even when compared with brightest pulses from rotationally-powered pulsars [53]. Recently, it was proposed [54] that pulsar radio emission could be generated in non-stationary pair plasma discharges which are responsible for \ufb01lling the pulsar magnetosphere with plasma.\n\nThe paper is organized as follows"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers_magnetar_OR_fast_radio_burst/2006.14503v2.The_radio_X_ray_burst_from_SGR_1935_2154__radiation_mechanisms_and_the_possible_QPOs.pdf"
+            },
+            "page_content": "2020), Konus-Wind (Ridnaia et al. 2020), AGILE (Tavani et al. 2020) and Insight-HXMT (Li et al. 2020). Subsequently, FAST detected anther radio pulse from this magnetar with the same DM but a \ufb02uence of 60 mJy ms (Zhang et al. 2020). Although its \ufb02uence is much weaker than the previous one, it con\ufb01rms that this magnetar is indeed in a radio active phase. This also supports the magnetar scenario for FRBs.\n\nIn this paper, I propose to study the FRB mechanisms from the recent joint detection of the magnetar burst from SGR 1935+2154 by radio and X-ray observatories, and discuss the implication from the magnetar association. In the next section, we brie\ufb02y review the observation for this event and discuss the X-ray burst model"
+        },
+        {
+            "metadata": {
+                "source": "./arxiv_papers_magnetar_OR_fast_radio_burst/2103.06052v1.Multi_frequency_observations_of_SGR_J1935_2154.pdf"
+            },
+            "page_content": "Rowlinson3,8, M. Serylak6, G. Setti4,27, M. Tavani28,29, R. A. M. J. W\u0133ers8, S. ter Veen3, V. Venkatraman Krishnan9, P. Vreesw\u0133k11, P. A. Woudt12 \u2020 Corresponding Author A\ufb03liations are listed at the end of the paper.\n\n] E H . h p - o r t s a [\n\n1 v 2 5 0 6 0 . 3 0 1 2 : v i X r a\n\nAccepted XXX. Received YYY; in original form ZZZ\n\nABSTRACT Magnetars are a promising candidate for the origin of Fast Radio Bursts (FRBs). The detection of an extremely luminous radio burst from the Galactic magnetar SGR J1935+2154 on 2020 April 28 added credence to this hypothesis. We report on simultaneous and non-simultaneous observing campaigns using the Arecibo, E\ufb00elsberg, LOFAR, MeerKAT, MK2 and Northern Cross radio telescopes and the MeerLICHT optical telescope in the days and months after the April 28 event. We did not detect any signi\ufb01cant single radio pulses down to \ufb02uence limits between 25 mJy ms and 18 Jy ms. Some observing epochs overlapped with times when X-ray bursts were detected"
+        }
+    ]
+}

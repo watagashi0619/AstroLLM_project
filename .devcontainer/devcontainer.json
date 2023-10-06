@@ -1,0 +1,48 @@
+{
+    "name": "AstroNinja",
+    "dockerComposeFile": [
+        "../docker-compose.yml",
+        "docker-compose.yml"
+    ],
+    "service": "app",
+    "workspaceFolder": "/workspace",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-azuretools.vscode-docker",
+                "ms-python.python",
+                "ms-python.vscode-pylance",
+                "ms-python.black-formatter",
+                "ms-toolsai.jupyter",
+                "njpwerner.autodocstring",
+            ],
+            "settings": {
+                "terminal.integrated.profiles.linux": {
+                    "bash": {
+                        "path": "/bin/bash",
+                    }
+                },
+                "terminal.integrated.defaultProfile.linux": "bash",
+                "python.linting.lintOnSave": true,
+                "python.linting.enabled": true,
+                "python.linting.flake8Path": "/usr/local/bin/flake8",
+                "python.linting.pylintEnabled": false,
+                "python.linting.flake8Enabled": true,
+                "python.linting.flake8Args": [
+                    "--max-line-length",
+                    "150"
+                ],
+                "editor.formatOnSave": true,
+                "python.formatting.blackPath": "/usr/local/bin/black",
+                "python.formatting.provider": "black",
+                "[python]": {
+                    "editor.formatOnSave": true,
+                    "editor.codeActionsOnSave": {
+                        "source.organizeImports": true
+                    },
+                    "editor.defaultFormatter": "ms-python.black-formatter",
+                }
+            }
+        }
+    },
+}

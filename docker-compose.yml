@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+   app:
+    container_name: app
+    build:
+      args:
+        - PYTHON_VERSION=3.9
+      context: app
+      dockerfile: Dockerfile
+      target: run
